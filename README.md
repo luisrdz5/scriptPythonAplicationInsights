@@ -1,0 +1,1 @@
+# scriptPythonAplicationInsights
